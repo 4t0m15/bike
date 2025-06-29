@@ -9,4 +9,3 @@ target
 *.pdb
 
 **/mutants.out*/
-z
